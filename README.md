@@ -6,3 +6,5 @@ UCI Entrepreneurship was built using a combination of front-end and back-end tec
 - CSS
 - JavaScript
 - Google Maps API
+## Disclaimer
+The website does not have a host at the moment. Please use your local host to view the website :)
