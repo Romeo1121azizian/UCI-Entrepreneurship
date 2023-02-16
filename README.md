@@ -1,3 +1,2 @@
 # UCI-Entrepreneurship
-Displays all the resources in UCI's entrepreneurship ecosystem.
-My goal is to foster the entrepreneuship ecosystem at UCI and help student not be afraid to build.
+UCI Entrepreneurship is a web app that showcases all the resources available to students and faculty in UCI's entrepreneurship ecosystem. Our goal is to make it easy for aspiring entrepreneurs to find the resources they need to turn their ideas into reality.
